@@ -10,3 +10,5 @@ Implementation of Factorating Personalized Markov Chains for Next-Basket Predict
 <li> validateModel.py  -  validate the model and calculate F1 score.
 </ul>
 
+![alt tag](curve.png)
+![alt tag](curve2.png)
