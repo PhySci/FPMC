@@ -11,4 +11,3 @@ Implementation of Factorating Personalized Markov Chains for Next-Basket Predict
 </ul>
 
 ![alt tag](curve.png)
-![alt tag](curve2.png)
