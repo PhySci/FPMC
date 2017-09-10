@@ -4,9 +4,9 @@ Implementation of Factorating Personalized Markov Chains for Next-Basket Predict
 
 ## Repo content:
 <ul>
-<li> FPMC.py main class;
-<li> test_FPMC.py - Unit tests for FPMC class;
-<li> teachModel.py - script for the model learning and validation;
-<li> validateModel.py - validate the model and calculate F1 score.
+<li> FPMC.py  - main class;
+<li> test_FPMC.py  -  Unit tests for FPMC class;
+<li> teachModel.py  -  script for the model learning and validation;
+<li> validateModel.py  -  validate the model and calculate F1 score.
 </ul>
 
